@@ -1,0 +1,14 @@
+.banner{
+    background-color: rgba(23, 184, 196, 0.657);
+    border-radius: 5px;
+}
+.tittle-text{
+   text-align: center;
+   color: rgb(10, 105, 39);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bold;
+}
+.banner-tittle{
+    text-align: center;
+    color: white;
+}

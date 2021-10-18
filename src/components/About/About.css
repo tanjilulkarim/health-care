@@ -1,0 +1,18 @@
+.about-tittle{
+    font-family: sans-serif;
+    font-weight: 700;
+    
+    text-align: center;
+    color: rgb(15, 81, 83);
+    padding-bottom: 20px;
+}
+.container-ceo{
+    display: flex;
+    margin-top: 20px;
+
+}
+.tittle-text{
+    text-align: center;
+    color: cadetblue;
+    padding-bottom: 20px;
+}

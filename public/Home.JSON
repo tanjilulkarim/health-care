@@ -1,0 +1,38 @@
+[
+    {
+        "tittle": "Top Selling Products",
+        "description": "Very popular products.Its very common use and very important for us. This Catagory product is value for money",
+        "id": "1",
+        "image": "https://thumbs.dreamstime.com/b/design-element-d-vector-label-promote-containing-eps-files-best-selling-product-banner-red-award-105680390.jpg"
+    },
+    {
+        "tittle": "Covid-19 Product",
+        "description": "Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Most use products",
+        "id": "2",
+        "image": "https://www.narang.com/images/og/covid-19.png"
+    },
+    {
+        "tittle": "HealtCare Product",
+        "description": "The health care product is often loosely defined as a service. The authors develop a more precise definition of the health ",
+        "id": "3",
+        "image": "https://www.designhill.com/design-blog/wp-content/uploads/2017/04/24-4-17-blog-image-1.jpg"
+    },
+    {
+        "tittle": "Medicine",
+        "description": "All kind off medicine we stock. Emergency medicine, We offer most less price to another shop. ",
+        "id": "4",
+        "image": "https://images.newscientist.com/wp-content/uploads/2019/06/18153152/medicineshutterstock_1421041688.jpg"
+    },
+    {
+        "tittle": "Medicine",
+        "description": "All kind off medicine we stock. Emergency medicine, We offer most less price to another shop. ",
+        "id": "4",
+        "image": "https://images.newscientist.com/wp-content/uploads/2019/06/18153152/medicineshutterstock_1421041688.jpg"
+    },
+    {
+        "tittle": "All Products",
+        "description": "All kind off medicine we stock. Emergency medicine, We offer most less price to another shop. ",
+        "id": "4",
+        "image": "https://cdn.corporatefinanceinstitute.com/assets/consumer-products.jpg"
+    }
+]
