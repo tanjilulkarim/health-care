@@ -28,7 +28,7 @@ const Banner = () => {
                     <img src={'https://static.vecteezy.com/system/resources/previews/002/839/207/original/medical-capsule-pill-open-with-many-colorful-molecules-on-blue-background-medicine-drug-vitamin-improve-health-concept-red-and-blue-pharmaceutical-antibiotic-halves-structure-with-particles-vector.jpg'} class="d-block w-100" alt="..." />
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Free delivery in 1 hour Dhaka city</h5>
-                        <p>Inside dhaka city and all over free delivery </p>
+                        <p>Inside dhaka city and all over free delivery.. </p>
                     </div>
                 </div>
             </div>
