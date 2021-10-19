@@ -1,4 +1,5 @@
 import React from 'react';
+import './CovidBlog.css'
 
 const CovidBlog = (props) => {
     const { tittle, price, image } = props.blog;
