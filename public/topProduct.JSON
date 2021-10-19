@@ -1,38 +1,38 @@
 [
     {
-        "tittle": "KN-95 Mask",
-        "Price": 70,
+        "tittle": "Shampo",
+        "price": 50,
         "id": "1",
-        "image": "https://buckethouse.com.pk/wp-content/uploads/2020/06/kn95_1300x1300.jpg"
+        "image": "https://www.shajgoj.com/wp-content/uploads/2021/02/3-8.jpg"
     },
     {
         "tittle": "Hand Sanitizer",
-        "Price": 50,
+        "price": 50,
         "id": "2",
         "image": "https://post.healthline.com/wp-content/uploads/2020/05/Babyganics-Alcohol-Free-Foaming-Hand-Sanitizer_Facebook-1-1200x628.jpg"
     },
     {
         "tittle": "Dettol",
-        "Price": 60,
+        "price": 60,
         "id": "3",
         "image": "https://m.media-amazon.com/images/I/51jspxPXoNL._AC_SY580_.jpg"
     },
     {
         "tittle": "Baby Cream",
-        "Price": 40,
+        "price": 40,
         "id": "4",
         "image": "https://i.ytimg.com/vi/188D_6TqrnE/maxresdefault.jpg"
     },
     {
         "tittle": "Body Lotion",
-        "Price": 50,
+        "price": 50,
         "id": "5",
         "image": "https://www.boerlind.com/media/catalog/product/cache/9/image/678x/85e4522595efc69f496374d01ef2bf13/b/o/boerlind-body-care-bodylotion-hand-tube.png"
     },
     {
-        "tittle": "Shampo",
-        "Price": 50,
+        "tittle": "KN-95 Mask",
+        "price": 70,
         "id": "6",
-        "image": "https://www.shajgoj.com/wp-content/uploads/2021/02/3-8.jpg"
+        "image": "https://buckethouse.com.pk/wp-content/uploads/2020/06/kn95_1300x1300.jpg"
     }
 ]

@@ -1,0 +1,16 @@
+.home-blog{
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    text-align: center;
+
+}
+.home-blog:hover{
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+    
+}
+.blog-images{
+    height: 250px;
+    margin-bottom: 30px;  
+}

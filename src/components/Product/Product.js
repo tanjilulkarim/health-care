@@ -1,11 +1,14 @@
 import React from 'react';
+import Covid from '../Covid/Covid';
+import TopSellingProduct from '../TopSellingProduct/TopSellingProduct';
+
 
 const Product = () => {
     return (
-        <div>
-            <h3>Top TopSellingProduct</h3>
-            <h3>Covid-19</h3>
-            <h3>Medicine</h3>
+        <div className="container">
+            <h2>Our availabe product</h2>
+            <TopSellingProduct></TopSellingProduct>
+            <Covid></Covid>
         </div>
     );
 };

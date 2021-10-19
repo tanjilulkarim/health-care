@@ -1,6 +1,7 @@
 import React from 'react';
+import './TopBlog.css';
 
-const CovidBlog = (props) => {
+const TopBlog = (props) => {
     const { tittle, price, image } = props.blog;
     return (
         <div className="col-md-4">
@@ -18,4 +19,4 @@ const CovidBlog = (props) => {
     );
 };
 
-export default CovidBlog;
+export default TopBlog;

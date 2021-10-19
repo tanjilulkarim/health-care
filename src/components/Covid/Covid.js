@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import CovidBlog from '../CovidBlog/CovidBlog';
 
-const Covid = (props) => {
+const Covid = () => {
     const [blogs, setBlogs] = useState([]);
 
     useEffect(() => {
