@@ -1,0 +1,15 @@
+
+footer{
+    
+    background-color: #191919;
+    padding: 40px;
+    color: #838383;
+}
+footer p{
+    margin: 0;
+    padding: 0;
+}
+.social-icon{
+    color: white;
+    font-size: 30px;
+}

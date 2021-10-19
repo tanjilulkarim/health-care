@@ -13,22 +13,22 @@ const Banner = () => {
                 <div class="carousel-item active">
                     <img src={'https://static.vecteezy.com/system/resources/previews/002/283/586/original/flash-sale-special-offer-banner-liquid-fluid-background-with-purple-and-orange-color-business-product-ads-promotion-template-vector.jpg'} class="d-block w-100" alt="..." />
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Winter Flash Sell</h5>
-                        <p>Some representative placeholder content for the first slide.</p>
+                        <h2>Winter Flash Sell !!! Winter is Coming!!!</h2>
+
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src={'https://www.sharmanjiyarns.com/images/quality_banner.jpg'} class="d-block w-100" alt="..." />
+                    <img src={'https://www.gethealthystayhealthy.com/sites/default/files/2019-04/introducing-your-pharmacist.jpg'} class="d-block w-100" alt="..." />
                     <div class="carousel-caption d-none d-md-block">
                         <h5>Best quality product</h5>
-                        <p>Some representative placeholder content for the second slide.</p>
+                        <p>We ensure best Quality product</p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src={'https://envato-shoebox-0.imgix.net/9dda/037e-c920-4494-8eb9-506317d056d0/202003094531.JPG?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1600&s=e338849928078e0c20b72a470f4cd3f9'} class="d-block w-100" alt="..." />
+                    <img src={'https://static.vecteezy.com/system/resources/previews/002/839/207/original/medical-capsule-pill-open-with-many-colorful-molecules-on-blue-background-medicine-drug-vitamin-improve-health-concept-red-and-blue-pharmaceutical-antibiotic-halves-structure-with-particles-vector.jpg'} class="d-block w-100" alt="..." />
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Third slide label</h5>
-                        <p>Some representative placeholder content for the third slide.</p>
+                        <h5>Free delivery in 1 hour Dhaka city</h5>
+                        <p>Inside dhaka city and all over free delivery </p>
                     </div>
                 </div>
             </div>
@@ -44,49 +44,6 @@ const Banner = () => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        // <div className="container banner">
-        //     <div className="tittle-text">
-        //         <h2>City care is the most Popular <br /> online pharmacy and healthcare in Bangladesh</h2>
-        //     </div>
-        //     <div className="row ">
-
-        //         <div className="col-md-6 banner-image">
-        //             <img height="380px" src={'https://envato-shoebox-0.imgix.net/a53c/4f3d-f475-4fce-96c5-49a17039ded2/IMG_0240.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=700&s=b8072a51fcc790731d557683ff595d34'} alt="" />
-        //         </div>
-        //         <div className="col-md-6 banner-tittle">
-        //             <h2>Flat 20% winter Sale</h2>
-        //             <div className="row">
-        //                 <div className="col-md-6">
-        //                     <i class="fas fa-shipping-fast"></i>
-        //                     <h4>Free Delivery</h4>
-        //                 </div>
-        //                 <div className="col-md-6">
-        //                     <i class="far fa-money-bill-alt"></i>
-        //                     <h4>Special CashBack </h4>
-        //                 </div>
-
-        //             </div>
-        //             <button type="button" className="btn btn-success">Shop now</button>
-        //         </div>
-        //     </div>
-        // </div>
     );
 };
 

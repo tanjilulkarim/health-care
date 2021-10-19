@@ -2,8 +2,11 @@ import React from 'react';
 import './Header.css';
 import { Link } from 'react-router-dom';
 import logo from '../../image/logo.png'
+import useAuth from '../../hooks/useAuth';
 
 const Header = () => {
+    const { user, Logout } = useAuth();
+
     return (
         <div className="container">
             <div className="row">
@@ -18,8 +21,12 @@ const Header = () => {
                         <Link to="/covid">Covid -19</Link>
                         <Link to="/about">About us</Link>
                         <Link to="/contact">Contact us</Link>
-                        <button type="submit" className="btn btn-primary m-3">Sign Up</button>
-                        <button type="submit" className="btn btn-success">Sign In</button>
+                        <span>{user?.displayName}</span><Link to="/login">Log in</Link>
+                        {/* <button onClick={Logout}></button> */}
+                        <Link to="/signup">Sign up</Link>
+
+                        <button onClick={Logout} type="button" className="btn btn-info">Log out</button>
+
                     </nav>
                 </div>
             </div>

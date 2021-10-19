@@ -9,24 +9,25 @@ const About = () => {
                 <h1 className="text-center  mb-5 about-tittle "> City Care online pharmacy and healthcare</h1>
                 <div className="col-lg-6">
                     <h3>About Us</h3>
-                    <img height="457px" src={'https://reflectionsinscience.files.wordpress.com/2019/02/curriculum.png?w=640'} alt="" />
-                    <p>There are countless online education marketplaces on the internet. And there’s us. We are not the biggest. We are not the cheapest. But we are the fastest growing. We have the highest course completion rate in the industry.</p>
+                    <img height="457px" width="100%" src={'https://images.theconversation.com/files/296159/original/file-20191009-3867-dvwfmu.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop'} alt="" />
+                    <h5>City Care online pharmacy and healthcare is one the most pupular pharmacy in Bangladesh</h5>
+                    <p>Pharmacists provide optimal management of medication for chronic diseases such as diabetes, asthma, hypertension, etc. The collaboration of healthcare professionals, such as physicians and pharmacists, can help to ensure that patients properly take their medications as prescribed and avoid any harmful effects.</p>
                     <br />
-                    <p>And the reason is, we don’t give up. When a student commits to a course, we commit to the student. We are not going to sugar coat it - we will make you complete, come what may. You may not have given much thought to what you are signing up for, but we believe you are signing up for knowledge that is useful and complete. We are ridiculously committed to our students. Be it constant reminders, relentless masters or 24 x 7 online support - we will absolutely make sure that you run out of excuses to not complete the course.</p>
+                    <p></p>
                 </div>
                 <div className="col-lg-6">
                     <h3>Our Vision</h3>
-                    <img width="100%" src={'https://www.kindpng.com/picc/m/50-500971_our-vision-logo-hd-png-download.png'} alt="" />
+                    <img height="457px" width="100%" src={'https://www.leadershipjournal.de/wp-content/uploads/2018/05/Vision-Mission-und-Werte-LeadershipJournal.jpg'} alt="" />
                     <p><blockquote>
-                        "Creative Info Training Centre provides innovative, effective and integrated training opportunities for people who need new skills to enjoy the dignity that comes with employment, independence and self-reliance"
+                        "We can always try to fast delivery and quality product"
 
                     </blockquote></p>
                     <p><blockquote>
-                        "Creative Info Training Centre provides innovative, effective and integrated training opportunities for people who need new skills to enjoy the dignity that comes with employment, independence and self-reliance"
+                        "Free delivery in Dhaka city and 1 hour garranted delivery"
 
                     </blockquote></p>
                     <p><blockquote>
-                        "Creative Info Training Centre provides innovative, effective and integrated training opportunities for people who need new skills to enjoy the dignity that comes with employment, independence and self-reliance"
+                        "Ensure more less than price in market and ensure castomer satisfaction"
 
                     </blockquote></p>
 
@@ -44,13 +45,11 @@ const About = () => {
                         <h5>Tanjilul karim</h5>
                         <br />
 
-
-
                     </div>
                     <div className="col-md-6 img-ceo">
                         <img height="150px" src={'https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/163232144/original/3d509828e3481cf3a1c38c82fb807c3aa55af7df/create-speech-bubble-qutation-posters-and-add-speech-bubble-on-your-photos.png'} alt="" />
                         <h5><blockquote>
-                            ""Creative Info Training  Centre provides           innovative, effective and integrated  training opportunities for people who need new skills to enjoy the  dignity that comes with employment, independence  and self-reliance""
+                            ""Honesth is the best business policy. We work with honetly.We ensure good product and offer value for""
                         </blockquote></h5>
                     </div>
                     <br />
