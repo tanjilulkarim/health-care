@@ -15,4 +15,4 @@
   * Bootstrap
   * JavaScript
   * React
-  * Firebasa
+  * Firebase
