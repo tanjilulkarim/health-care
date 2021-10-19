@@ -8,7 +8,7 @@ const Contact = () => {
                 <p className=" mb-5">Talk to one of our consultants today and learn how to start leveraging your Study...</p>
             </div>
             <div className="row">
-                <div className="col-lg-4">
+                <div className="col-12 col-lg-4">
                     <div className="card text-center p-5 contact-card" >
                         <div className="card-icon  px-5 pt-3 pb-1">
                             <i className="fas fa-phone icon"></i>
@@ -16,13 +16,13 @@ const Contact = () => {
                         <div className="p-4">
                             <h4 className="card-title mb-3">+01879889966</h4>
 
-                            <h6 className="">We answer by phone from Monday to Saturday from 10 am until 6 pm.</h6>
+                            <h6 className="">We answer by phone from Monday to Saturday from 10 am until 10 pm.</h6>
 
                         </div>
                     </div>
                 </div>
 
-                <div className="col-lg-4">
+                <div className="col-12 col-lg-4">
                     <div className="card text-center contact-card p-5" >
                         <div className="card-icon  px-5 pt-3 pb-1">
                             <i className="far fa-envelope icon"></i>
@@ -36,7 +36,7 @@ const Contact = () => {
                     </div>
                 </div>
 
-                <div className="col-lg-4">
+                <div className="col-12 col-lg-4">
                     <div className="card text-center contact-card p-5" >
                         <div className="card-icon  px-5 pt-3 pb-1">
                             <i className="fas fa-map-marker-alt icon"></i>
@@ -44,7 +44,7 @@ const Contact = () => {
                         <div className="p-4">
                             <h4 className="card-title mb-3">1230 Street, Dhaka</h4>
 
-                            <h6 className="">Come visit us from Monday to Friday from 11 am to 4 pm. we can ensure your security</h6>
+                            <h6 className="">Come visit us from Monday to Friday from 11 am to 4 pm. </h6>
 
                         </div>
                     </div>

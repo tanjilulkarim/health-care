@@ -4,7 +4,7 @@ import './TopBlog.css';
 const TopBlog = (props) => {
     const { tittle, price, image } = props.blog;
     return (
-        <div className="col-md-4">
+        <div className="col-12 col-md-4">
             <div className="card-group  ">
 
                 <div className="card top-blog" >

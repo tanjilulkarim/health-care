@@ -1,0 +1,8 @@
+.signup-div{
+     background-color: rgba(199, 199, 199, 0.63);
+    border: 2px solid green;
+    border-radius: 10px;
+}
+.signup-div:hover{
+    background-color: rgba(106, 170, 177, 0.623);
+}

@@ -10,10 +10,10 @@ const Header = () => {
     return (
         <div className="container">
             <div className="row">
-                <div className="col-md-4">
-                    <Link to="/home"><img className="rounded-circle" width="250px" height="80px" src={logo} alt="" /></Link>
+                <div className="col-12 col-md-4">
+                    <Link to="/home"><img className="rounded-circle" width="280px" height="80px" src={logo} alt="" /></Link>
                 </div>
-                <div className="col-md-8">
+                <div className="col-12 col-md-8">
                     <nav className="header">
                         <Link to="/home">Home</Link>
                         <Link to="/product">Product</Link>

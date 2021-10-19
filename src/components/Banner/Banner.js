@@ -13,22 +13,23 @@ const Banner = () => {
                 <div class="carousel-item active">
                     <img src={'https://static.vecteezy.com/system/resources/previews/002/283/586/original/flash-sale-special-offer-banner-liquid-fluid-background-with-purple-and-orange-color-business-product-ads-promotion-template-vector.jpg'} class="d-block w-100" alt="..." />
                     <div class="carousel-caption d-none d-md-block">
-                        <h2>Winter Flash Sell !!! Winter is Coming!!!</h2>
+                        <h1 className="mb-0">Winter Flash Sell !!! Winter is Coming!!!</h1>
 
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src={'https://www.gethealthystayhealthy.com/sites/default/files/2019-04/introducing-your-pharmacist.jpg'} class="d-block w-100" alt="..." />
+                    <img src={'https://www.scnsoft.com/_default_upload_bucket/healthcare-customer-service.png'} class="d-block w-100" alt="..." />
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Best quality product</h5>
-                        <p>We ensure best Quality product</p>
+                        <h2 className="text-success">Best Castomer Services</h2>
+                        <h4 className="text-success">"Ensure more less than price in market and ensure castomer satisfaction"</h4>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src={'https://static.vecteezy.com/system/resources/previews/002/839/207/original/medical-capsule-pill-open-with-many-colorful-molecules-on-blue-background-medicine-drug-vitamin-improve-health-concept-red-and-blue-pharmaceutical-antibiotic-halves-structure-with-particles-vector.jpg'} class="d-block w-100" alt="..." />
+                    <img src={'https://unb.com.bd/filemanager/photos/64/OshudhWala.png'} class="d-block w-100" alt="..." />
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Free delivery in 1 hour Dhaka city</h5>
-                        <p>Inside dhaka city and all over free delivery.. </p>
+                        <h2 className="bg-secondary">1 hour Delivery in Dhaka city</h2>
+
+                        <img height="100px" src={'https://as2.ftcdn.net/v2/jpg/01/99/13/11/500_F_199131179_Rw8FONd62AufRRtLmmgYJ8l4n0Kiby1t.jpg'} alt="" />
                     </div>
                 </div>
             </div>

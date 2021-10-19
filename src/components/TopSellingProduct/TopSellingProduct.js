@@ -16,6 +16,7 @@ const TopSellingProduct = () => {
         <div>
             <div className="container">
                 <h2 className="tittle">Top Selling Product</h2>
+                <hr />
                 <div className="row gy-5 mb-3">
                     {
                         blogs.map(blog => <TopBlog

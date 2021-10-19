@@ -6,7 +6,7 @@ const BlogHome = (props) => {
 
     return (
 
-        <div className="col-md-4">
+        <div className="col-12 col-md-4">
             <div className="card-group  ">
 
                 <div className="card home-blog" >

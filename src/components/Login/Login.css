@@ -1,0 +1,8 @@
+.login-div{
+    background-color: rgba(180, 185, 184, 0.685);
+    border: 2px solid green;
+    border-radius: 10px;
+}
+.login-div:hover{
+    background-color: rgba(106, 170, 177, 0.623);
+}

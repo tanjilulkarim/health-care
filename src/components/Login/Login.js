@@ -1,4 +1,5 @@
 import React from "react";
+import './Login.css'
 import { Link } from "react-router-dom";
 import useAuth from "../../hooks/useAuth";
 
@@ -13,7 +14,7 @@ const Login = () => {
                 <div className="col-lg-4"></div>
 
                 <div className="col-lg-5">
-                    <div className="login-div">
+                    <div className="login-div mb-3">
                         <h2 className="text-center">Login</h2>
                         <form onSubmit={SignInWithEmail} className="w-75 mx-auto">
                             <div className="mb-3">
@@ -41,7 +42,7 @@ const Login = () => {
                         </form>
 
                         <div className="text-center">
-                            <p>Login With</p>
+                            <h4>Login With</h4>
                             <button onClick={signInWithGoogle} className="btn">
                                 <img width="40px" src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" alt="" />
                             </button>

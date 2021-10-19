@@ -1,4 +1,5 @@
 import React from 'react';
+import './SignUp.css';
 import { Link } from 'react-router-dom';
 import useAuth from '../../hooks/useAuth';
 // import "./signup.css"
@@ -11,7 +12,7 @@ const Signup = () => {
             <div className="row">
                 <div className="col-lg-4"></div>
 
-                <div className="col-lg-5">
+                <div className="col-lg-5 mb-5">
                     <div className="signup-div">
 
 
@@ -41,13 +42,13 @@ const Signup = () => {
                                     Already have an account? Please login!
                                 </Link>
                             </div>
-                            <button type="submit" className="btn btn-primary">Submit</button>
+                            <button type="submit" className="btn btn-primary mb-3">Submit</button>
                         </form>
 
 
                     </div>
                 </div>
-                <div className="col-lg-4"></div>
+
             </div>
         </div>
     );

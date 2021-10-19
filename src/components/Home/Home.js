@@ -1,6 +1,11 @@
 import React, { useEffect, useState } from 'react';
+import About from '../About/About';
 import Banner from '../Banner/Banner';
 import BlogHome from '../BlogHome/BlogHome';
+import Contact from '../Contact/Contact';
+import Covid from '../Covid/Covid';
+
+import TopSellingProduct from '../TopSellingProduct/TopSellingProduct';
 
 const Home = (props) => {
     const [blogs, setBlogs] = useState([]);
@@ -26,6 +31,10 @@ const Home = (props) => {
                         ></BlogHome>)
                     }
                 </div>
+                <TopSellingProduct></TopSellingProduct>
+                <Covid></Covid>
+                <About></About>
+                <Contact></Contact>
             </div>
 
         </div>
