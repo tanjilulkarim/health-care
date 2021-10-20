@@ -3,7 +3,19 @@
     text-decoration: none;
     line-height: 70px;
     font-size: larger;
-    font-weight: bold;
-    color: rgba(6, 100, 6, 0.931);
-    font-family: 'Times New Roman', Times, serif;
+    color: rgba(0, 90, 0, 0.931);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header a:hover{
+    color: rgb(35, 52, 150);
+    background: rgb(212, 211, 211);
+    padding: 8px;
+    border-radius: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.logOut{
+    padding: 2px;
+    background-color: rgba(129, 121, 101, 0.698);
+    color: black;
 }

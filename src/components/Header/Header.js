@@ -22,10 +22,10 @@ const Header = () => {
                         <Link to="/about">About us</Link>
                         <Link to="/contact">Contact us</Link>
                         <span>{user?.displayName}</span><Link to="/login">Log in</Link>
-                        {/* <button onClick={Logout}></button> */}
+
                         <Link to="/signup">Sign up</Link>
 
-                        <button onClick={Logout} type="button" className="btn btn-info">Log out</button>
+                        {user?.email && <button onClick={Logout} type="button" className="btn btn-secondary mb-3 logOut">Log out</button>}
 
                     </nav>
                 </div>
