@@ -10,6 +10,8 @@ import TopSellingProduct from '../TopSellingProduct/TopSellingProduct';
 const Home = (props) => {
     const [blogs, setBlogs] = useState([]);
 
+
+
     useEffect(() => {
         fetch('./Home.JSON')
             .then(res => res.json())

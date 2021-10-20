@@ -11,11 +11,13 @@ import Login from './components/Login/Login';
 import PageNotFund from './components/PageNotFund/PageNotFund';
 import PrivateRoute from './components/PrivateRoute/PrivateRoute';
 import Product from './components/Product/Product';
+import ProductDetails from './components/ProductDetails/ProductDetails';
 import SignUp from './components/SignUp/SignUp';
 import TopSellingProduct from './components/TopSellingProduct/TopSellingProduct';
 import AuthProvider from './context/AuthProvider';
 
 function App() {
+
   return (
     <AuthProvider>
       <Router>
@@ -29,6 +31,9 @@ function App() {
           </Route>
           <Route exact path="/product">
             <Product></Product>
+          </Route>
+          <Route path="/productDetails/:id">
+            <ProductDetails></ProductDetails>
           </Route>
           <PrivateRoute exact path="/topProduct">
             <TopSellingProduct></TopSellingProduct>

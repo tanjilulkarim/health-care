@@ -1,8 +1,14 @@
 import React from 'react';
+import { useHistory, useParams } from 'react-router';
 import './BlogHome.css';
 
 const BlogHome = (props) => {
-    const { tittle, description, image } = props.blog;
+    const { tittle, description, image, id } = props.blog;
+    // const { id } = useParams();
+    const history = useHistory();
+    const abc = () => {
+        history.push(`/ProductDetails/${id}`)
+    }
 
     return (
 
@@ -13,7 +19,7 @@ const BlogHome = (props) => {
                     <img className="blog-images" src={image} alt="" />
                     <h3>{tittle}</h3>
                     <p>{description}</p>
-                    <button type="submit" className="btn btn-success">Details</button>
+                    <button onClick={abc} type="submit" className="btn btn-success">Details</button>
                 </div>
 
             </div>
